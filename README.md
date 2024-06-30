@@ -14,8 +14,11 @@ he home page displays events, restaurants, cafes, hotels, and car rental service
 
 ![image](https://github.com/alhassan-alshareef/Visitsaudi93/assets/174230485/1ec9f866-0246-4428-b8aa-c2e2d757df72) 
 
+# Databases for the Home page
 
+![image](https://github.com/alhassan-alshareef/Visitsaudi93/assets/174230485/1d84d3d1-60da-4d27-bb28-91e4f53a00ac)
 
+![image](https://github.com/alhassan-alshareef/Visitsaudi93/assets/174230485/245bb471-ef76-414c-b4b2-34d03c7ad928)
 
 
 
